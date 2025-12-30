@@ -3,9 +3,9 @@
 🎓 Computer Science student  
 💻 MERN stack learner | Backend & real-time apps enthusiast  
 
-### 🚀 What I’m working on
-- 🔥 **Real-Time Chat Application** using MERN + Socket.IO  
-- 📊 Data analysis projects using Python & Jupyter Notebook  
+### 🌟 Featured Projects
+- Real-Time Chat Application – MERN stack, Socket.IO
+- Books Data Analysis – Python, Pandas, Matplotlib
 
 ### 🛠 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS  
