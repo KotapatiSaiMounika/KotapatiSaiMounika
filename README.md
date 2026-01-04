@@ -11,7 +11,7 @@
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, Socket.IO  
 - **Tools:** Git, GitHub, VS code, Postman  
-- **Languages:** JavaScript, Python  
+- **Languages:** JavaScript, Python, C++, C 
 
 ### 🌟 Featured Project
 👉 **Real-Time Chat App**  
