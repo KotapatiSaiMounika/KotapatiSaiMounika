@@ -17,6 +17,8 @@
 👉 **Real-Time Chat App**  
 A full-stack chat application with authentication, real-time messaging, online status, and image sharing.
 
+🔗 Live Demo: https://realtime-chat-app-xi-inky.vercel.app
+
 🔗 Repo: https://github.com/KotapatiSaiMounika/realtime-chat-app  
 
 ### 📫 Connect with me
