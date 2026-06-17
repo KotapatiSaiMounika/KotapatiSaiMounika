@@ -17,19 +17,6 @@
 
 💻 Passionate about Full Stack Development and Backend Engineering
 
-🌱 Currently learning:
-
-* Advanced MERN Stack
-* AI/ML
-* System Design
-* Open Source Development
-
-🔭 Working on:
-
-* Real-Time Applications
-* Open Source Contributions
-* AI-Powered Projects
-
 ⚡ Fun Fact:
 I enjoy solving DSA problems and building projects that solve real-world problems.
 
@@ -112,7 +99,7 @@ Tech Stack:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KotapatiSaiMounika&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=KotapatiSaiMounika&theme=tokyonight"/>
 </p>
 
 ---
