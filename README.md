@@ -26,64 +26,39 @@ I enjoy solving DSA problems and building projects that solve real-world problem
 
 ### Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,vite" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio" />
 </p>
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
 </p>
 
 ### Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+<h2 align="center">📌 Featured Work</h2>
 
-### 💬 QuickChat - Real-Time Chat Application
+<p align="center">
+⭐ Explore my pinned repositories below to see my best projects in Full Stack Development, Backend Engineering, and AI/ML.
+</p>
 
-A MERN Stack based real-time messaging platform featuring:
-
-* JWT Authentication
-* Real-Time Messaging using Socket.IO
-* Online User Status
-* Image Sharing
-* Responsive UI
-
-🔗 Live Demo:
-https://realtime-chat-app-xi-inky.vercel.app
-
-🔗 Repository:
-https://github.com/KotapatiSaiMounika/realtime-chat-app
-
----
-
-### 🩺 Skin Cancer Detection
-
-Deep Learning based CNN model for classifying dermoscopy images.
-
-✅ 83% Accuracy
-
-✅ 88% Malignant Recall
-
-Tech Stack:
-
-* Python
-* TensorFlow
-* Keras
-* Jupyter Notebook
+<p align="center">
+👇 Scroll down to explore my pinned repositories!
+</p>
 
 ---
 
@@ -106,9 +81,15 @@ Tech Stack:
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sai-mounika-kotapati-269494321">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:kotapatisaimounika@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/KotapatiSaiMounika">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
@@ -116,6 +97,6 @@ Tech Stack:
 
 ### 💡 Quote
 
-> "Code, Learn, Build, Repeat 🚀"
+> "Code with purpose. Build with passion."
 
 ⭐ Thanks for visiting my profile!
