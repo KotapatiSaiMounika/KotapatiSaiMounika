@@ -73,7 +73,7 @@ I enjoy solving DSA problems and building projects that solve real-world problem
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sai-mounika-kotapati-269494321">
+<a href="https://www.linkedin.com/in/kotapati-sai-mounika-269494321/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:kotapatisaimounika@gmail.com">
