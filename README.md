@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KotapatiSaiMounika&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/KotapatiSaiMounika?label=Followers&style=social"/>
 </p>
 
@@ -58,14 +57,6 @@ I enjoy solving DSA problems and building projects that solve real-world problem
 
 <p align="center">
 👇 Scroll down to explore my pinned repositories!
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KotapatiSaiMounika&theme=tokyo-night"/>
 </p>
 
 ---
